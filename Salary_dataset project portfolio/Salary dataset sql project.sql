@@ -1,8 +1,8 @@
 /* This portfolio project is for data exploration */
 
 
-create database salary
-use salary
+/*create database salary
+use salary */
 
 /* inspect dataset*/
 select *
