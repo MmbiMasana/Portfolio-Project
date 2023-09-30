@@ -1,6 +1,7 @@
-CREATE DATABASE Power_Lifting
-USE Power_Lifting
---Viweing tables
+/*CREATE DATABASE Power_Lifting
+USE Power_Lifting */
+
+--Viweing tables 
 SELECT *
 FROM meets 
 order by meetID asc;
