@@ -76,7 +76,7 @@ from male
 order by age;
 
 
-/* what is the average salary for each job */
+/* Finding the average salary for each job */
 select [Job Title], avg(salary) as Average_Salary
 from Salary_Data
 group by [Job Title]
